@@ -8,7 +8,7 @@ We will first build a model using sklearn and linear regression using banglore h
 
 Here is link to my notebook: [How to build real-estate price prediction model](https://www.kaggle.com/wasimkhan/complete-ml-model-with-web-interface-for-testing)
 
-you can comment over there for explanation with any-step. Don't miss encouraging me through upvote.
+you can ask any query in a comment on my notebook. Don't miss encouraging me through upvote.
 
 #### **Step-2**:
 
