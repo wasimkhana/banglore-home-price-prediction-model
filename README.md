@@ -7,6 +7,7 @@ This project is a complete but simple view of data-science concepts, machine lea
 We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle. During model building we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc.
 
 Here is link to my notebook: [How to build real-estate price prediction model](https://www.kaggle.com/wasimkhan/complete-ml-model-with-web-interface-for-testing)
+
 you can comment over there for explanation with any-step. Don't miss encouraging me through upvote.
 
 #### **Step-2**:
