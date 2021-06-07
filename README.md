@@ -28,3 +28,5 @@ Third component is the website built in html, css and javascript that allows use
     Python flask for http server
     HTML/CSS/Javascript for UI
 
+## **Final Result**
+![Banglore-home-price-prediction-model](https://user-images.githubusercontent.com/43634095/121074081-cbc7a480-c7ec-11eb-9580-36ad1eba6e26.png)
